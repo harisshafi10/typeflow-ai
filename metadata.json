@@ -1,0 +1,5 @@
+{
+  "name": "TypeFlow AI",
+  "description": "A minimalist, high-performance typing practice app inspired by Monkeytype. Features real-time stats, multiple modes (Time/Words), and AI-generated practice texts using Google Gemini.",
+  "requestFramePermissions": []
+}
